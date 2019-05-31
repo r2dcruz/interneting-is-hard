@@ -1,3 +1,3 @@
 #Interneting is hard
-##This site is awesome, for a refresher
-##internetingishard.com 
+This site is awesome, for a refresher
+internetingishard.com 
