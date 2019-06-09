@@ -1,3 +1,2 @@
-#Internetingishard
-This site is awesome, for a refresher
-internetingishard.com 
+# internetingishard.com
+Loved this read. 
