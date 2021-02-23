@@ -1,2 +1,2 @@
 # internetingishard.com
-Loved this read. 
+intro to HTML & CSS
